@@ -1,2 +1,2 @@
 # machine-learning-coursera
-machine-learning homework of coursera
+The homework of machine-learning course of coursera
